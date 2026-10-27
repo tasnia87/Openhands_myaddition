@@ -1,0 +1,5 @@
+.venv/
+__pycache__/
+.pytest_cache/
+baseline_logs/
+evidence_*.zip
